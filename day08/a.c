@@ -2,7 +2,9 @@
 int main()
 {
         int a=1;
-            printf("%d\n",a);
+        int e=10;
+        int c=a+e;    
+        printf("%d\n",c);
 
 
 }
